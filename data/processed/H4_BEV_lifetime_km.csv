@@ -1,0 +1,2 @@
+vehicle_type,lifetime_km,lifetime_range_min,lifetime_range_max,source
+BEV_passenger_car,200000,180000,220000,"IEA Global EV Outlook 2023"

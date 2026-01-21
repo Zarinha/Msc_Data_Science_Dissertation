@@ -1,0 +1,5 @@
+Route_ID,Exporting_Country,Origin_Port,Destination_Port,Distance_km,Distance_nautical_miles,Source
+MOZ-EU,Mozambique,Maputo,Rotterdam,9620,5192,"Calculated using MarineTraffic great-circle estimates; supported by IPCC (2006) maritime defaults."
+RSA-EU,South Africa,Durban,Rotterdam,9400,5074,"MarineTraffic great-circle distance; typical ethanol export corridor."
+KEN-EU,Kenya,Mombasa,Rotterdam,10450,5646,"MarineTraffic distance; consistent with tanker routing through Suez Canal."
+BRA-EU,Brazil,Santos,Rotterdam,10400,5616,"Canonical benchmark distance used in Macedo et al. (2008) and several LCA reviews."

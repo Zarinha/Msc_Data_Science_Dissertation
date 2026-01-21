@@ -1,0 +1,5 @@
+parameter,value,unit,source
+mean,0.35,USD_per_litre,IEA_Bioenergy_Task39_2023
+std_dev,0.05,USD_per_litre,FAO_BEFS_2021
+min,0.29,USD_per_litre,Macedo_2008
+max,0.47,USD_per_litre,FAO_BEFS_2021

@@ -1,0 +1,5 @@
+Stage,Symbol,Value_gCO2e_MJ,Description,Source
+Cultivation,E_cult,14,"Emissions from sugarcane cultivation including diesel, fertilizer production, and N2O field emissions.","Macedo et al. (2008), Biomass & Bioenergy"
+Processing,E_proc,11,"Steam and electricity use in sugarcane milling and fermentation, assuming bagasse-based energy.","IEA Bioenergy (2023), Task 39 Report"
+Cogeneration Offset,E_offset,-6,"Electricity credit for surplus bagasse-based power displacing fossil grid energy.","Macedo et al. (2008), Biomass & Bioenergy"
+Gasoline Baseline,CI_gasoline,93,"EU fossil gasoline reference carbon intensity (gCO2e/MJ) under RED II Annex V.","EU Commission (2018), RED II Annex V"

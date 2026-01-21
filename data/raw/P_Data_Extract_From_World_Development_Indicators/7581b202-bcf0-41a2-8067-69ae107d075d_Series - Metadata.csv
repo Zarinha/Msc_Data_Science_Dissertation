@@ -1,0 +1,17 @@
+Series Name,Series Code,Country Name,Country Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024]
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,Brazil,BRA,1761,1761,1761,1761,1761,1761,1761,1761,1761,1761,1761,1761,1761,..,..
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,Kenya,KEN,630,630,630,630,630,630,630,630,630,630,630,630,630,..,..
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,Mozambique,MOZ,1032,1032,1032,1032,1032,1032,1032,1032,1032,1032,1032,1032,1032,..,..
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,South Africa,ZAF,495,495,495,495,495,495,495,495,495,495,495,495,495,..,..
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,
+Last Updated: 10/07/2025,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Statistical concept and methodology,Development relevance,Limitations and exceptions,License URL
+AG.LND.PRCP.MM,CC BY-4.0,Average precipitation in depth (mm per year),Average precipitation is the long-term average in depth (over space and time) of annual precipitation in the country. Precipitation is defined as any kind of water that falls from clouds as a liquid or a solid.,Average precipitation is the long-term average in depth (over space and time) of annual precipitation in the country. Precipitation is defined as any kind of water that falls from clouds as a liquid or a solid.,"FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO)",Environment: Land use,WDI,milimeter (mm) per year,Annual,1961-2021,Methodology: Estimation of Areal Precipitation
+
+
+
+A single point precipitation measurement is quite often not representative of the volume of precipitation falling over a given catchment area. A dense network of point measurements and/or radar estimates can provide a better representation of the true volume over a given area. A network of precipitation measurements is converted to areal estimates using the arithmentic mean. This technique calculates areal precipitation using the arithmetic mean of all the point or areal measurements considered in the analysis.
+Statistical concept(s):,"The agriculture sector is the most water-intensive sector, and water delivery in agriculture is increasingly important. Data on irrigated agricultural land and data on average precipitation illustrate how countries obtain water for agricultural use.","The data are collected by the Food and Agriculture Organization of the United Nations (FAO) through annual questionnaires. The FAO tries to impose standard definitions and reporting methods, but complete consistency across countries and over time is not possible.",https://datacatalog.worldbank.org/public-licenses#cc-by

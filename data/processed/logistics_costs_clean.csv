@@ -1,0 +1,4 @@
+parameter,value,unit,source
+min,0.05,USD_per_litre,UNCTAD_2023
+mode,0.08,USD_per_litre,UNCTAD_2023
+max,0.12,USD_per_litre,IEA_Bioenergy_Task39_2023

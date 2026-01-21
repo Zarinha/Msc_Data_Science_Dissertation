@@ -1,0 +1,2 @@
+country,segment,model,year,test_cycle,consumption_Wh_per_km,consumption_kWh_per_km,source
+EU-27,All,BEV_fleet_average,2023,Real-world,165,0.165,IEA Global EV Outlook 2023

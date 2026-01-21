@@ -1,0 +1,36 @@
+__pycache__/
+venv/
+*.tmp
+*.dbf
+*.prj
+
+# Virtual environments
+.venv/
+venv/
+env/
+nul
+
+
+*.log
+*.nc
+nohup.out
+
+
+# ===============================
+# OS / Editor
+# ===============================
+
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# ===============================
+# Secrets
+# ===============================
+.env
+.env.*
+*.key
+*.pem
+

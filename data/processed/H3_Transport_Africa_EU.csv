@@ -1,0 +1,5 @@
+Route_ID,Exporting_Country,Origin_Port,Destination_Port,Transport_Stage,Value_gCO2e_MJ,Description,Source
+MOZ-EU,Mozambique,Port of Maputo,Port of Rotterdam,Maritime_Ethanol_Transport,6.5,"Bulk carrier voyage Maputo–Rotterdam converted to gCO2e/MJ ethanol using IPCC maritime factors and tonne-km methodology.","UNFCCC (2022); IPCC (2006); IEA Bioenergy (2023)"
+RSA-EU,South Africa,Port of Durban,Port of Rotterdam,Maritime_Ethanol_Transport,6.0,"Durban–Rotterdam ethanol shipping emissions; shorter distance than Brazil–EU routes.","UNFCCC (2022); IPCC (2006); IEA Bioenergy (2023)"
+KEN-EU,Kenya,Port of Mombasa,Port of Rotterdam,Maritime_Ethanol_Transport,6.8,"Mombasa–Rotterdam maritime transport factor derived from long-range tanker emission intensities.","UNFCCC (2022); IPCC (2006); IEA Bioenergy (2023)"
+BRA-EU,Brazil,Port of Santos,Port of Rotterdam,Maritime_Ethanol_Transport,7.0,"Benchmark shipping route Santos–Rotterdam widely used in sugarcane ethanol LCA literature.","Macedo et al. (2008); IEA Bioenergy (2023)"

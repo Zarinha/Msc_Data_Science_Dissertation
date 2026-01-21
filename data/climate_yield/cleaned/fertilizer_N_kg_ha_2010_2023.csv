@@ -1,0 +1,57 @@
+Country,Year,Fertilizer_N_kg_ha
+Brazil,2010,45.13
+Brazil,2011,55.56
+Brazil,2012,50.02
+Brazil,2013,58.61
+Brazil,2014,65.0
+Brazil,2015,50.04
+Brazil,2016,51.68
+Brazil,2017,64.56
+Brazil,2018,65.12
+Brazil,2019,69.65
+Brazil,2020,83.85
+Brazil,2021,95.08
+Brazil,2022,96.18
+Brazil,2023,90.92
+Kenya,2010,12.97
+Kenya,2011,15.4
+Kenya,2012,17.97
+Kenya,2013,21.08
+Kenya,2014,17.42
+Kenya,2015,13.7
+Kenya,2016,17.37
+Kenya,2017,23.47
+Kenya,2018,16.3
+Kenya,2019,18.94
+Kenya,2020,26.37
+Kenya,2021,23.22
+Kenya,2022,12.9
+Kenya,2023,22.31
+Mozambique,2010,7.29
+Mozambique,2011,5.48
+Mozambique,2012,4.0
+Mozambique,2013,4.45
+Mozambique,2014,5.62
+Mozambique,2015,2.28
+Mozambique,2016,3.18
+Mozambique,2017,3.73
+Mozambique,2018,4.39
+Mozambique,2019,7.63
+Mozambique,2020,7.93
+Mozambique,2021,9.42
+Mozambique,2022,6.4
+Mozambique,2023,9.34
+South Africa,2010,27.42
+South Africa,2011,30.3
+South Africa,2012,30.81
+South Africa,2013,29.29
+South Africa,2014,28.64
+South Africa,2015,25.88
+South Africa,2016,23.71
+South Africa,2017,34.08
+South Africa,2018,36.83
+South Africa,2019,38.8
+South Africa,2020,42.66
+South Africa,2021,44.86
+South Africa,2022,39.27
+South Africa,2023,30.5
